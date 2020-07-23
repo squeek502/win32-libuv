@@ -8,6 +8,10 @@ The relevant integration code can be found in:
 - [src/win32uv.h](src/win32uv.h)
 - [src/win32uv.c](src/win32uv.c)
 
-The other files are just for demonstration purposes.
+The other files are just there for the purposes of the demo application:
 
 ![Screenshot of the demo](win32uv-libuv.png)
+
+---
+
+TODO: explain how the integration works
