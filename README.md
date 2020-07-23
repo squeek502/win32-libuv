@@ -10,7 +10,7 @@ The relevant integration code can be found in:
 
 The other files are just there for the purposes of the demo application:
 
-![Screenshot of the demo](win32uv-libuv.png)
+![Screenshot of the demo](win32-libuv.png)
 
 ---
 
